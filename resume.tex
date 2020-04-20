@@ -1,10 +1,39 @@
 \documentclass{article}
 
-\usepackege
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin*1in]{geometry}
+
+
+\titleformat{\section}
+{\huge\bfseries}
+{}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}[runin]
+{\bfseries\Large}
+{}
+{0em}
+{}
+
+\titleformat{\subsubsection}
+{\bfseries}
+{$\bullet$}
+{0em}
+{}
+
+\renewcommand{\maketitle}{
+	\begin{center}
+		{\huge\bfseries\theauthor}
+		
+		Adrian.angara@gmail.com
+	\end{center}
+}
+
 
 \begin{document}
 
-\title{Resume}
 \author{Adrian Angara}
 
 \maketitle

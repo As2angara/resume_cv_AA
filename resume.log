@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  19 APR 2020 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  19 APR 2020 21:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -24,46 +24,173 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count175
-\l__pdf_internal_box=\box45
+(/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box45
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen135
+\ttl@minus=\dimen136
+\ttl@toksa=\toks15
+\titlewidth=\dimen137
+\titlewidthlast=\dimen138
+\titlewidthfirst=\dimen139
 )
-No file resume.aux.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip51
+\thanksmargin=\skip52
+\droptitle=\skip53
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks17
+
+
+/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty:1005: Packag
+e keyval Error: margin*1in undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? s
+OK, entering \scrollmode...
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count178
+\l__pdf_internal_box=\box46
+) (./resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
-./resume.tex:17: You can't use `macro parameter character #' in horizontal mode
+(Font)              <5> on input line 44.
+./resume.tex:48: Illegal parameter number in definition of \@currentlabelname.
+<to be read again> 
+                   ,
+l.48 ...n{Java, C#, Javascript (ES6) / Typescript}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./resume.tex:48: Illegal parameter number in definition of \ttl@savemark.
+<to be read again> 
+                   ,
+l.48 ...n{Java, C#, Javascript (ES6) / Typescript}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./resume.tex:48: Illegal parameter number in definition of \ttl@savetitle.
+<to be read again> 
+                   ,
+l.48 ...n{Java, C#, Javascript (ES6) / Typescript}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./resume.tex:48: Illegal parameter number in definition of \ttl@savewrite.
+<to be read again> 
+                   ,
+l.48 ...n{Java, C#, Javascript (ES6) / Typescript}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./resume.tex:48: You can't use `macro parameter character #' in horizontal mode
 .
 <argument> Java, C##
                     , Javascript (ES6) / Typescript
-l.17 ...n{Java, C#, Javascript (ES6) / Typescript}
+l.48 ...n{Java, C#, Javascript (ES6) / Typescript}
                                                   
-? s
-OK, entering \scrollmode...
-./resume.tex:17: Illegal parameter number in definition of \reserved@a.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./resume.tex:48: Illegal parameter number in definition of \reserved@a.
 <to be read again> 
                    ,
-l.17 ...n{Java, C#, Javascript (ES6) / Typescript}
+l.48 ...n{Java, C#, Javascript (ES6) / Typescript}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -74,23 +201,22 @@ are all screwed up? I'm going to assume that you meant ##.
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 385 strings out of 480608
- 6473 string characters out of 5903631
- 241610 words of memory out of 5000000
- 16351 multiletter control sequences out of 15000+600000
- 536593 words of font info for 38 fonts, out of 8000000 for 9000
+ 1260 strings out of 480608
+ 18680 string characters out of 5903631
+ 262661 words of memory out of 5000000
+ 17208 multiletter control sequences out of 15000+600000
+ 533559 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,6n,19p,173b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,4n,33p,173b,133s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb>
-Output written on resume.pdf (1 page, 55072 bytes).
+cmsy10.pfb>
+Output written on resume.pdf (1 page, 47488 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
